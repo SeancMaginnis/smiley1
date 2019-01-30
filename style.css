@@ -1,0 +1,12 @@
+body{
+  background-color: aquamarine
+}
+.smiley{
+margin: 0px auto;
+padding: 0px;
+size: auto
+}
+
+.no-gutters{
+  margin: 0px
+}
